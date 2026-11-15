@@ -326,6 +326,323 @@ searchInput.addEventListener("input", (event) => {
 render();
 
 
+/* =====================================================
+   NIGHTFALL HORROR — DETAILS, VIEW ALL & BEST KILLS
+   ===================================================== */
+
+/* IMPROVE BEST KILLS WITH REAL HORROR TITLES */
+
+const bestKillsUpdates = [
+  {
+    id: 5,
+    title: "Terrifier 2",
+    year: 2022,
+    type: "Movie",
+    genre: "Slasher",
+    tagline: "Art the Clown turns Halloween into a night of absolute terror.",
+    detail: "A brutal slasher featuring outrageous practical effects, disturbing scenes and one of modern horror's most recognizable villains."
+  },
+  {
+    id: 6,
+    title: "Final Destination 2",
+    year: 2003,
+    type: "Movie",
+    genre: "Supernatural",
+    tagline: "You can escape the disaster. But can you escape Death?",
+    detail: "A terrifying chain of seemingly ordinary accidents makes everyday situations feel dangerous. Its opening highway sequence is unforgettable."
+  },
+  {
+    id: 7,
+    title: "Ash vs Evil Dead",
+    year: 2015,
+    type: "TV",
+    genre: "Gore",
+    tagline: "Chainsaws, demons and gloriously chaotic horror.",
+    detail: "Ash returns to battle the forces of evil in a bloody horror-comedy packed with outrageous creature effects and dark humor."
+  },
+  {
+    id: 8,
+    title: "The Walking Dead",
+    year: 2010,
+    type: "TV",
+    genre: "Gore",
+    tagline: "The dead are walking. The living might be worse.",
+    detail: "A group of survivors struggles to stay alive in a world overrun by walkers. Expect brutal encounters, shocking losses and unforgettable moments."
+  }
+];
+
+bestKillsUpdates.forEach(update => {
+  const item = horrorCatalog.find(movie => movie.id === update.id);
+  if (item) Object.assign(item, update);
+});
+
+/* CREATE DETAILS AND VIEW ALL WINDOW */
+
+const nightfallModal = document.createElement("div");
+nightfallModal.id = "nightfallModal";
+nightfallModal.className = "nightfall-modal";
+nightfallModal.hidden = true;
+
+nightfallModal.innerHTML = `
+  <div class="nightfall-backdrop" data-nightfall-close></div>
+
+  <div class="nightfall-window" role="dialog" aria-modal="true">
+    <button class="nightfall-close" data-nightfall-close>×</button>
+    <p class="eyebrow">NIGHTFALL HORROR ARCHIVE</p>
+    <h2 id="nightfall-modal-title"></h2>
+    <div id="nightfall-modal-content"></div>
+  </div>
+`;
+
+document.body.appendChild(nightfallModal);
+
+const modalTitle = document.getElementById("nightfall-modal-title");
+const modalContent = document.getElementById("nightfall-modal-content");
+
+function closeNightfallModal() {
+  nightfallModal.hidden = true;
+  document.body.classList.remove("nightfall-modal-open");
+}
+
+function openNightfallDetails(item) {
+  if (!item) return;
+
+  modalTitle.textContent = item.title;
+
+  modalContent.innerHTML = `
+    <p class="nightfall-meta">
+      ${item.year} · ${item.type} · ${item.genre}
+    </p>
+
+    <p class="nightfall-description">
+      ${item.detail || item.tagline}
+    </p>
+
+    <p class="nightfall-hook">${item.tagline}</p>
+
+    <button class="primary-btn" data-nightfall-watch="${item.id}">
+      ${state.watchlist.has(item.id)
+        ? "Remove from watchlist"
+        : "Add to watchlist"}
+    </button>
+  `;
+
+  nightfallModal.hidden = false;
+  document.body.classList.add("nightfall-modal-open");
+}
+
+function openNightfallCategory(sectionKey) {
+  const names = {
+    new: "New Releases",
+    kills: "Best Kills",
+    tv: "Horror TV Shows",
+    classics: "Horror Classics"
+  };
+
+  const items = getVisibleItems().filter(
+    item => item.section === sectionKey
+  );
+
+  modalTitle.textContent = names[sectionKey] || "Horror Archive";
+
+  modalContent.innerHTML = items.length
+    ? items.map(item => `
+        <article class="nightfall-list-item">
+          <div>
+            <h3>${item.title}</h3>
+            <p class="nightfall-meta">
+              ${item.year} · ${item.type} · ${item.genre}
+            </p>
+            <p>${item.tagline}</p>
+          </div>
+
+          <button class="ghost-btn"
+            data-nightfall-detail="${item.id}">
+            Details
+          </button>
+        </article>
+      `).join("")
+    : "<p>No titles found. Try changing your search or genre filter.</p>";
+
+  nightfallModal.hidden = false;
+  document.body.classList.add("nightfall-modal-open");
+}
+
+/* BUTTON ACTIONS */
+
+document.addEventListener("click", event => {
+
+  if (event.target.closest("[data-nightfall-close]")) {
+    closeNightfallModal();
+    return;
+  }
+
+  const detailButton = event.target.closest("[data-nightfall-detail]");
+
+  if (detailButton) {
+    const item = horrorCatalog.find(
+      movie => movie.id === Number(detailButton.dataset.nightfallDetail)
+    );
+
+    openNightfallDetails(item);
+    return;
+  }
+
+  const watchButton = event.target.closest("[data-nightfall-watch]");
+
+  if (watchButton) {
+    const id = Number(watchButton.dataset.nightfallWatch);
+
+    if (state.watchlist.has(id)) {
+      state.watchlist.delete(id);
+    } else {
+      state.watchlist.add(id);
+    }
+
+    render();
+
+    const item = horrorCatalog.find(movie => movie.id === id);
+    openNightfallDetails(item);
+    return;
+  }
+
+  const detailsButton = event.target.closest(".ghost-btn");
+
+  if (detailsButton) {
+    const card = detailsButton.closest(".media-card");
+
+    if (card) {
+      const title = card.querySelector("h4")?.textContent;
+      const item = horrorCatalog.find(movie => movie.title === title);
+
+      if (item) openNightfallDetails(item);
+    }
+
+    return;
+  }
+
+  const viewAllButton = event.target.closest(".chip-btn");
+
+  if (viewAllButton) {
+    const section = viewAllButton.closest(".content-section");
+
+    if (section) openNightfallCategory(section.id);
+  }
+});
+
+/* CLOSE WITH ESCAPE */
+
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape" && !nightfallModal.hidden) {
+    closeNightfallModal();
+  }
+});
+
+/* MODAL STYLING */
+
+const nightfallStyles = document.createElement("style");
+
+nightfallStyles.textContent = `
+  body.nightfall-modal-open {
+    overflow: hidden;
+  }
+
+  .nightfall-modal[hidden] {
+    display: none;
+  }
+
+  .nightfall-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: grid;
+    place-items: center;
+    padding: 18px;
+  }
+
+  .nightfall-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,.86);
+    backdrop-filter: blur(7px);
+  }
+
+  .nightfall-window {
+    position: relative;
+    width: min(700px, 100%);
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 28px;
+    border: 1px solid rgba(255,255,255,.12);
+    border-radius: 20px;
+    background: #14121b;
+    box-shadow: 0 25px 80px rgba(0,0,0,.7);
+  }
+
+  .nightfall-window h2 {
+    font-family: "Creepster", cursive;
+    font-size: 2.5rem;
+    font-weight: 400;
+  }
+
+  .nightfall-close {
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,.15);
+    background: #29232d;
+    color: white;
+    font-size: 1.6rem;
+  }
+
+  .nightfall-meta {
+    color: #ff7b54;
+    font-weight: 700;
+    font-size: .85rem;
+  }
+
+  .nightfall-description {
+    color: #f5f0ec;
+    line-height: 1.8;
+    font-size: 1.05rem;
+  }
+
+  .nightfall-hook {
+    color: #b7a9a4;
+    line-height: 1.7;
+  }
+
+  .nightfall-list-item {
+    padding: 16px 0;
+    border-top: 1px solid rgba(255,255,255,.1);
+  }
+
+  .nightfall-list-item h3 {
+    margin-bottom: 5px;
+  }
+
+  .nightfall-list-item p {
+    color: #b7a9a4;
+    line-height: 1.6;
+  }
+
+  .nightfall-list-item .ghost-btn {
+    margin-bottom: 8px;
+  }
+`;
+
+document.head.appendChild(nightfallStyles);
+
+/* REFRESH CARDS WITH UPDATED BEST KILLS */
+
+render();
+
+/* END NIGHTFALL UPGRADE */
+
+
 
 
 
