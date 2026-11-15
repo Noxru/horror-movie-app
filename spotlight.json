@@ -1,0 +1,22 @@
+{
+  "adult": false,
+  "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+  "genre_ids": [
+    27,
+    53,
+    878
+  ],
+  "id": 1400940,
+  "title": "Clayface",
+  "original_language": "en",
+  "original_title": "Clayface",
+  "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+  "popularity": 72.2631,
+  "poster_path": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+  "release_date": "2026-10-19",
+  "softcore": false,
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 441,
+  "media_type": "movie"
+}
