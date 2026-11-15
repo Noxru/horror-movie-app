@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nightfall Horror</title>
+    <meta
+      name="description"
+      content="Discover the best horror movies and TV shows, from new releases to legendary kills and cult classics."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Creepster&family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="brand-wrap">
+          <div class="brand-mark">N</div>
+          <div>
+            <p class="eyebrow">Horror archive</p>
+            <h1>Nightfall</h1>
+          </div>
+        </div>
+
+        <nav class="nav" aria-label="Main navigation">
+          <a href="#new">New</a>
+          <a href="#kills">Best Kills</a>
+          <a href="#tv">TV</a>
+          <a href="#classics">Classics</a>
+        </nav>
+
+        <button class="watchlist-btn" type="button">My Watchlist <span id="watchlist-count">0</span></button>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">All-time horror</p>
+            <h2>Where every scream, stalker, and nightmare begins.</h2>
+            <p>
+              Explore the newest horror releases, iconic slashers, cursed TV series, and the most unforgettable kills ever captured on screen.
+            </p>
+            <div class="hero-actions">
+              <a href="#new" class="primary-btn">Browse the list</a>
+              <a href="#kills" class="secondary-btn">Best kills</a>
+            </div>
+            <ul class="stats" aria-label="Horror stats">
+              <li><strong>240+</strong><span>titles</span></li>
+              <li><strong>18</strong><span>genres</span></li>
+              <li><strong>7</strong><span>killer picks</span></li>
+            </ul>
+          </div>
+
+          <div class="hero-poster" aria-label="Featured horror poster">
+            <div class="poster-glow"></div>
+            <div class="poster-card">
+              <p class="poster-tag">Featured nightmare</p>
+              <h3>The Black Veil</h3>
+              <div class="poster-meta">
+                <span>2025</span>
+                <span>Horror / Thriller</span>
+              </div>
+              <div class="poster-rating">★ 8.7</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="toolbar">
+          <div class="search-wrap">
+            <label class="sr-only" for="searchInput">Search horror titles</label>
+            <input id="searchInput" type="search" placeholder="Search movies and shows..." />
+          </div>
+          <div class="filter-list" id="filters" aria-label="Genre filters"></div>
+        </section>
+
+        <section id="new" class="content-section">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Fresh blood</p>
+              <h3>New releases</h3>
+            </div>
+            <button class="chip-btn" type="button">View all</button>
+          </div>
+          <div id="newGrid" class="card-grid"></div>
+        </section>
+
+        <section id="kills" class="content-section">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Legendary moments</p>
+              <h3>Best kills</h3>
+            </div>
+            <button class="chip-btn" type="button">Top 10</button>
+          </div>
+          <div id="killsGrid" class="card-grid"></div>
+        </section>
+
+        <section id="tv" class="content-section">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Night-time dread</p>
+              <h3>Horror TV shows</h3>
+            </div>
+            <button class="chip-btn" type="button">Binge list</button>
+          </div>
+          <div id="tvGrid" class="card-grid"></div>
+        </section>
+
+        <section id="classics" class="content-section">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Immortal terror</p>
+              <h3>All-time classics</h3>
+            </div>
+            <button class="chip-btn" type="button">Hall of fame</button>
+          </div>
+          <div id="classicGrid" class="card-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="cardTemplate">
+      <article class="media-card">
+        <div class="poster-box">
+          <div class="poster-overlay"></div>
+          <span class="type-badge"></span>
+          <button class="fav-btn" type="button" aria-label="Add to watchlist">♡</button>
+        </div>
+        <div class="card-body">
+          <div class="meta-row">
+            <span class="year"></span>
+            <span class="rating"></span>
+          </div>
+          <h4></h4>
+          <p class="tagline"></p>
+          <div class="card-footer">
+            <span class="genre"></span>
+            <button class="ghost-btn" type="button">Details</button>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
