@@ -1,96 +1,8 @@
-name: Refresh Nightfall Spotlight
-
-on:
-  schedule:
-    - cron: "17 3 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-spotlight:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Fetch horror movies and TV shows
-        env:
-          TMDB_API_KEY: ${{ secrets.key }}
+- name: Save updated Spotlight
         run: |
-          node <<'NODE'
-          const fs = require("fs");
+          git add spotlight.json
 
-          const apiKey = process.env.TMDB_API_KEY;
-
-          if (!apiKey) {
-            throw new Error("Missing GitHub secret: key");
-          }
-
-          async function fetchHorror(type) {
-            const params = new URLSearchParams({
-              api_key: apiKey,
-              language: "en-US",
-              sort_by: "popularity.desc",
-              with_genres: "27",
-              include_adult: "false",
-              page: "1"
-            });
-
-            const url =
-              `https://api.themoviedb.org/3/discover/${type}?${params}`;
-
-            const response = await fetch(url);
-
-            if (!response.ok) {
-              throw new Error(`TMDB error: ${response.status}`);
-            }
-
-            const data = await response.json();
-
-            return (data.results || []).map(item => ({
-              ...item,
-              media_type: type
-            }));
-          }
-
-          async function main() {
-            const [movies, shows] = await Promise.all([
-              fetchHorror("movie"),
-              fetchHorror("tv")
-            ]);
-
-            const choices = [
-              ...movies.slice(0, 20),
-              ...shows.slice(0, 20)
-            ];
-
-            if (!choices.length) {
-              throw new Error("No horror titles found.");
-            }
-
-            const day = Math.floor(Date.now() / 86400000);
-            const spotlight = choices[day % choices.length];
-
-            fs.writeFileSync(
-              "spotlight.json",
-              JSON.stringify(spotlight, null, 2) + "\n"
-            );
-
-            console.log("Spotlight selected:", spotlight.title || spotlight.name);
-          }
-
-          main().catch(error => {
-            console.error(error);
-            process.exit(1);
-          });
-          NODE
-
-      - name: Save updated Spotlight
-        run: |
-          if git diff --quiet -- spotlight.json; then
+          if git diff --cached --quiet; then
             echo "Spotlight has not changed."
             exit 0
           fi
@@ -98,6 +10,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add spotlight.json
           git commit -m "Update daily horror spotlight"
           git push
