@@ -643,6 +643,91 @@ render();
 /* END NIGHTFALL UPGRADE */
 
 
+/* =====================================
+   NIGHTFALL HORROR - AUTOMATIC SPOTLIGHT
+   ===================================== */
+
+async function updateHorrorSpotlight() {
+  const hero = document.querySelector(".hero-poster");
+  const card = document.querySelector(".poster-card");
+
+  if (!hero || !card) return;
+
+  try {
+    const response = await fetch("./spotlight.json?t=" + Date.now());
+
+    if (!response.ok) {
+      throw new Error("Spotlight data unavailable");
+    }
+
+    const movie = await response.json();
+
+    const title = movie.title || movie.name || "Unknown";
+    const date = movie.release_date || movie.first_air_date || "";
+    const year = date ? date.substring(0, 4) : "Coming soon";
+    const type = movie.media_type === "tv" ? "Horror TV Show" : "Horror Movie";
+
+    // Update title
+    const heading = card.querySelector("h3");
+    if (heading) heading.textContent = title;
+
+    // Update year and category
+    const meta = card.querySelector(".poster-meta");
+
+    if (meta) {
+      meta.replaceChildren();
+
+      const yearText = document.createElement("span");
+      yearText.textContent = year;
+
+      const typeText = document.createElement("span");
+      typeText.textContent = type;
+
+      meta.append(yearText, typeText);
+    }
+
+    // Update rating
+    const rating = card.querySelector(".poster-rating");
+
+    if (rating) {
+      const score = Number(movie.vote_average);
+      rating.textContent = score > 0
+        ? "★ " + score.toFixed(1) + " TMDB"
+        : "Horror Spotlight";
+    }
+
+    // Update poster image
+    const image = movie.backdrop_path || movie.poster_path;
+
+    if (image) {
+      hero.style.backgroundImage =
+        "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.65)), url(https://image.tmdb.org/t/p/w780" +
+        image + ")";
+
+      hero.style.backgroundSize = "cover";
+      hero.style.backgroundPosition = "center";
+    }
+
+    // Update spotlight label
+    const tag = card.querySelector(".poster-tag");
+
+    if (tag) {
+      tag.textContent = "DAILY HORROR SPOTLIGHT";
+    }
+
+    // Add synopsis as a hover tooltip
+    card.title = movie.overview || "Discover today's horror spotlight.";
+
+    console.log("Nightfall Spotlight updated:", title);
+
+  } catch (error) {
+    console.error("Spotlight update failed:", error);
+  }
+}
+
+// Load the spotlight when the page opens
+updateHorrorSpotlight();
+
 
 
 
