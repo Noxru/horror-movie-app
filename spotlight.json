@@ -1,99 +1,68 @@
 {
   "adult": false,
-  "backdrop_path": "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-  "belongs_to_collection": null,
+  "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+  "belongs_to_collection": {
+    "id": 1507701,
+    "name": "Apocalypse Z Collection",
+    "poster_path": "/2pUaxggnRDxpStTZxnzrStvOCo1.jpg",
+    "backdrop_path": "/3uwce3JKCqosGibw4IhNmWAQTQC.jpg"
+  },
   "budget": 0,
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     },
     {
       "id": 27,
       "name": "Horror"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
     }
   ],
-  "homepage": "https://www.hbo.com/content/movies/a-story-of-derry",
-  "id": 1813355,
-  "imdb_id": "tt50389959",
+  "homepage": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+  "id": 1507696,
+  "imdb_id": "tt37522541",
   "origin_country": [
-    "US"
+    "ES"
   ],
-  "original_language": "en",
-  "original_title": "A Story of Derry",
-  "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-  "popularity": 246.4689,
-  "poster_path": "/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+  "original_language": "es",
+  "original_title": "Apocalipsis Z: Nuevo mundo",
+  "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+  "popularity": 214.9472,
+  "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
   "production_companies": [
     {
-      "id": 118854,
-      "logo_path": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png",
-      "name": "Rideback",
-      "origin_country": "US"
-    },
-    {
-      "id": 829,
-      "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-      "name": "Vertigo Entertainment",
-      "origin_country": "US"
-    },
-    {
-      "id": 1957,
-      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
-      "name": "Warner Bros. Television",
-      "origin_country": "US"
-    },
-    {
-      "id": 273053,
-      "logo_path": null,
-      "name": "FiveTen Productions",
-      "origin_country": "US"
-    },
-    {
-      "id": 278524,
-      "logo_path": null,
-      "name": "K Plus Ultra",
-      "origin_country": "US"
-    },
-    {
-      "id": 152809,
-      "logo_path": "/bdtAEMJpIaVW78c78POabARpotx.png",
-      "name": "Double Dream",
-      "origin_country": "US"
-    },
-    {
-      "id": 3268,
-      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
-      "name": "HBO",
-      "origin_country": "US"
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
     }
   ],
   "production_countries": [
     {
-      "iso_3166_1": "US",
-      "name": "United States of America"
+      "iso_3166_1": "ES",
+      "name": "Spain"
     }
   ],
-  "release_date": "2026-10-31",
+  "release_date": "2026-10-09",
   "revenue": 0,
-  "runtime": 30,
+  "runtime": 96,
   "softcore": false,
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
     }
   ],
   "status": "Released",
   "tagline": "",
-  "title": "A Story of Derry",
+  "title": "Apocalypse Z: New World",
   "video": false,
-  "vote_average": 6.76,
-  "vote_count": 121,
+  "vote_average": 6.185,
+  "vote_count": 214,
   "media_type": "movie"
 }
