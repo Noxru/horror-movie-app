@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:30:33.527Z",
+  "generated_at": "2026-11-17T04:03:26.696Z",
   "sections": {
     "new": [
       {
@@ -21,10 +21,10 @@
         "title": "Other Mommy",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror / Mystery",
-        "rating": "6.3",
-        "tagline": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "detail": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "genre": "Horror",
+        "rating": "6.4",
+        "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
         "section": "new"
       },
@@ -35,7 +35,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.8",
+        "rating": "6.6",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -82,6 +82,19 @@
       },
       {
         "id": 8,
+        "tmdbId": 1567605,
+        "title": "Ebenezer",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Fantasy / Horror",
+        "rating": "7.7",
+        "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+        "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 9,
         "tmdbId": 1514026,
         "title": "Buddy",
         "year": "2026",
@@ -94,29 +107,16 @@
         "section": "new"
       },
       {
-        "id": 9,
-        "tmdbId": 1657630,
-        "title": "The Awakening",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Fantasy",
-        "rating": "6.5",
-        "tagline": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "detail": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/AhP971WogMHbF5iKJPKi6e6oaya.jpg') center/cover",
-        "section": "new"
-      },
-      {
         "id": 10,
-        "tmdbId": 1291595,
-        "title": "Insidious: Out of the Further",
+        "tmdbId": 1432306,
+        "title": "Sleepwalker",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "7.7",
-        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
+        "genre": "Thriller / Horror",
+        "rating": "4.8",
+        "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+        "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
         "section": "new"
       },
       {
@@ -153,10 +153,10 @@
         "title": "Other Mommy",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror / Mystery",
+        "genre": "Horror",
         "rating": "6.3",
-        "tagline": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "detail": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
         "section": "kills"
       },
@@ -167,7 +167,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.8",
+        "rating": "6.7",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -214,6 +214,19 @@
       },
       {
         "id": 18,
+        "tmdbId": 940721,
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.6",
+        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 19,
         "tmdbId": 1657630,
         "title": "The Awakening",
         "year": "2026",
@@ -226,7 +239,7 @@
         "section": "kills"
       },
       {
-        "id": 19,
+        "id": 20,
         "tmdbId": 1291595,
         "title": "Insidious: Out of the Further",
         "year": "2026",
@@ -236,19 +249,6 @@
         "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
         "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 20,
-        "tmdbId": 940721,
-        "title": "Godzilla Minus One",
-        "year": "2023",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.6",
-        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
         "section": "kills"
       },
       {
@@ -385,15 +385,15 @@
       },
       {
         "id": 31,
-        "tmdbId": 213562,
-        "title": "Crystal Lake",
-        "year": "2026",
+        "tmdbId": 13916,
+        "title": "Death Note",
+        "year": "2006",
         "type": "TV",
         "genre": "Mystery",
         "rating": "8.6",
-        "tagline": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-        "detail": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg') center/cover",
+        "tagline": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+        "detail": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg') center/cover",
         "section": "tv"
       }
     ],
@@ -504,19 +504,6 @@
       },
       {
         "id": 40,
-        "tmdbId": 68627,
-        "title": "Even the Wind Is Afraid",
-        "year": "1968",
-        "type": "Movie",
-        "genre": "Mystery / Horror",
-        "rating": "7.9",
-        "tagline": "A group of college students, led by Claudia, decide to investigate a local tower that has figured prominently in disturbing reoccurring dreams Claudia has been having. They are suspended from school for their antics, but Claudia learns from one of the female staff members that the person in the dream is a student who killed herself years before and that the headmistress has seen her ghost.",
-        "detail": "A group of college students, led by Claudia, decide to investigate a local tower that has figured prominently in disturbing reoccurring dreams Claudia has been having. They are suspended from school for their antics, but Claudia learns from one of the female staff members that the person in the dream is a student who killed herself years before and that the headmistress has seen her ghost.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/je6rko1r6YG7Bi3VKe8Wq7B3mjN.jpg') center/cover",
-        "section": "classics"
-      },
-      {
-        "id": 41,
         "tmdbId": 10728,
         "title": "Faust",
         "year": "1926",
@@ -526,6 +513,19 @@
         "tagline": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
         "detail": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg') center/cover",
+        "section": "classics"
+      },
+      {
+        "id": 41,
+        "tmdbId": 10242,
+        "title": "What Ever Happened to Baby Jane?",
+        "year": "1962",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "7.9",
+        "tagline": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+        "detail": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg') center/cover",
         "section": "classics"
       }
     ]
@@ -550,10 +550,10 @@
       "title": "Other Mommy",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Mystery",
-      "rating": "6.3",
-      "tagline": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "detail": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "genre": "Horror",
+      "rating": "6.4",
+      "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
       "section": "new"
     },
@@ -564,7 +564,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.8",
+      "rating": "6.6",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -611,6 +611,19 @@
     },
     {
       "id": 8,
+      "tmdbId": 1567605,
+      "title": "Ebenezer",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Fantasy / Horror",
+      "rating": "7.7",
+      "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 9,
       "tmdbId": 1514026,
       "title": "Buddy",
       "year": "2026",
@@ -623,29 +636,16 @@
       "section": "new"
     },
     {
-      "id": 9,
-      "tmdbId": 1657630,
-      "title": "The Awakening",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Fantasy",
-      "rating": "6.5",
-      "tagline": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-      "detail": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/AhP971WogMHbF5iKJPKi6e6oaya.jpg') center/cover",
-      "section": "new"
-    },
-    {
       "id": 10,
-      "tmdbId": 1291595,
-      "title": "Insidious: Out of the Further",
+      "tmdbId": 1432306,
+      "title": "Sleepwalker",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "7.7",
-      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
+      "genre": "Thriller / Horror",
+      "rating": "4.8",
+      "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+      "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
       "section": "new"
     },
     {
@@ -680,10 +680,10 @@
       "title": "Other Mommy",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Mystery",
+      "genre": "Horror",
       "rating": "6.3",
-      "tagline": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "detail": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
       "section": "kills"
     },
@@ -694,7 +694,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.8",
+      "rating": "6.7",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -741,6 +741,19 @@
     },
     {
       "id": 18,
+      "tmdbId": 940721,
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.6",
+      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 19,
       "tmdbId": 1657630,
       "title": "The Awakening",
       "year": "2026",
@@ -753,7 +766,7 @@
       "section": "kills"
     },
     {
-      "id": 19,
+      "id": 20,
       "tmdbId": 1291595,
       "title": "Insidious: Out of the Further",
       "year": "2026",
@@ -763,19 +776,6 @@
       "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
       "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 20,
-      "tmdbId": 940721,
-      "title": "Godzilla Minus One",
-      "year": "2023",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.6",
-      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -910,15 +910,15 @@
     },
     {
       "id": 31,
-      "tmdbId": 213562,
-      "title": "Crystal Lake",
-      "year": "2026",
+      "tmdbId": 13916,
+      "title": "Death Note",
+      "year": "2006",
       "type": "TV",
       "genre": "Mystery",
       "rating": "8.6",
-      "tagline": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "detail": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg') center/cover",
+      "tagline": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+      "detail": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg') center/cover",
       "section": "tv"
     },
     {
@@ -1027,19 +1027,6 @@
     },
     {
       "id": 40,
-      "tmdbId": 68627,
-      "title": "Even the Wind Is Afraid",
-      "year": "1968",
-      "type": "Movie",
-      "genre": "Mystery / Horror",
-      "rating": "7.9",
-      "tagline": "A group of college students, led by Claudia, decide to investigate a local tower that has figured prominently in disturbing reoccurring dreams Claudia has been having. They are suspended from school for their antics, but Claudia learns from one of the female staff members that the person in the dream is a student who killed herself years before and that the headmistress has seen her ghost.",
-      "detail": "A group of college students, led by Claudia, decide to investigate a local tower that has figured prominently in disturbing reoccurring dreams Claudia has been having. They are suspended from school for their antics, but Claudia learns from one of the female staff members that the person in the dream is a student who killed herself years before and that the headmistress has seen her ghost.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/je6rko1r6YG7Bi3VKe8Wq7B3mjN.jpg') center/cover",
-      "section": "classics"
-    },
-    {
-      "id": 41,
       "tmdbId": 10728,
       "title": "Faust",
       "year": "1926",
@@ -1049,6 +1036,19 @@
       "tagline": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
       "detail": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg') center/cover",
+      "section": "classics"
+    },
+    {
+      "id": 41,
+      "tmdbId": 10242,
+      "title": "What Ever Happened to Baby Jane?",
+      "year": "1962",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "7.9",
+      "tagline": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+      "detail": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg') center/cover",
       "section": "classics"
     }
   ]

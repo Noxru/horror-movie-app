@@ -1,68 +1,85 @@
 {
   "adult": false,
-  "backdrop_path": "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+  "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
   "belongs_to_collection": {
-    "id": 1507701,
-    "name": "Apocalypse Z Collection",
-    "poster_path": "/2pUaxggnRDxpStTZxnzrStvOCo1.jpg",
-    "backdrop_path": "/3uwce3JKCqosGibw4IhNmWAQTQC.jpg"
+    "id": 1474814,
+    "name": "Godzilla Minus Collection",
+    "poster_path": "/gbo6zavrKwKVcxpV8GKolN8WA4T.jpg",
+    "backdrop_path": "/mTfkjYslpoCm6BC9RlIYgedNwcE.jpg"
   },
-  "budget": 0,
+  "budget": 15000000,
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
+      "id": 878,
+      "name": "Science Fiction"
     },
     {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
     }
   ],
-  "homepage": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
-  "id": 1507696,
-  "imdb_id": "tt37522541",
+  "homepage": "https://godzilla.com/pages/godzilla-minus-zero",
+  "id": 1381071,
+  "imdb_id": "tt34384661",
   "origin_country": [
-    "ES"
+    "JP"
   ],
-  "original_language": "es",
-  "original_title": "Apocalipsis Z: Nuevo mundo",
-  "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-  "popularity": 214.9472,
-  "poster_path": "/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+  "original_language": "ja",
+  "original_title": "ゴジラ-0.0",
+  "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+  "popularity": 137.0655,
+  "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
   "production_companies": [
     {
-      "id": 11068,
-      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
-      "name": "Nostromo Pictures",
-      "origin_country": "ES"
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12386,
+      "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
+      "name": "Robot Communications",
+      "origin_country": "JP"
+    },
+    {
+      "id": 182161,
+      "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
+      "name": "TOHO Studios",
+      "origin_country": "JP"
     }
   ],
   "production_countries": [
     {
-      "iso_3166_1": "ES",
-      "name": "Spain"
+      "iso_3166_1": "JP",
+      "name": "Japan"
     }
   ],
-  "release_date": "2026-10-09",
-  "revenue": 0,
-  "runtime": 96,
+  "release_date": "2026-11-03",
+  "revenue": 104182654,
+  "runtime": 135,
   "softcore": false,
   "spoken_languages": [
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Español"
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "status": "Released",
-  "tagline": "",
-  "title": "Apocalypse Z: New World",
+  "tagline": "There is no third time. Everything ends here.",
+  "title": "Godzilla Minus Zero",
   "video": false,
-  "vote_average": 6.185,
-  "vote_count": 214,
+  "vote_average": 7.7,
+  "vote_count": 238,
   "media_type": "movie"
 }
