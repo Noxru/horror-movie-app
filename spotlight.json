@@ -1,85 +1,79 @@
 {
   "adult": false,
-  "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-  "belongs_to_collection": {
-    "id": 1474814,
-    "name": "Godzilla Minus Collection",
-    "poster_path": "/gbo6zavrKwKVcxpV8GKolN8WA4T.jpg",
-    "backdrop_path": "/mTfkjYslpoCm6BC9RlIYgedNwcE.jpg"
-  },
-  "budget": 15000000,
+  "backdrop_path": "/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
   "genres": [
-    {
-      "id": 878,
-      "name": "Science Fiction"
-    },
     {
       "id": 27,
       "name": "Horror"
     },
     {
-      "id": 28,
-      "name": "Action"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
     }
   ],
-  "homepage": "https://godzilla.com/pages/godzilla-minus-zero",
-  "id": 1381071,
-  "imdb_id": "tt34384661",
+  "homepage": "https://roadsideattractions.com/filmography/Buddy/",
+  "id": 1514026,
+  "imdb_id": "tt37281055",
   "origin_country": [
-    "JP"
+    "US"
   ],
-  "original_language": "ja",
-  "original_title": "ゴジラ-0.0",
-  "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-  "popularity": 137.0655,
-  "poster_path": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+  "original_language": "en",
+  "original_title": "Buddy",
+  "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+  "popularity": 105.5431,
+  "poster_path": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
   "production_companies": [
     {
-      "id": 882,
-      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-      "name": "TOHO",
-      "origin_country": "JP"
+      "id": 18609,
+      "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+      "name": "BoulderLight Pictures",
+      "origin_country": "US"
     },
     {
-      "id": 12386,
-      "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
-      "name": "Robot Communications",
-      "origin_country": "JP"
+      "id": 28286,
+      "logo_path": "/m4zzuwJbTrqw5qZHoXpySkC87jE.png",
+      "name": "Low Spark Films",
+      "origin_country": "US"
     },
     {
-      "id": 182161,
-      "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
-      "name": "TOHO Studios",
-      "origin_country": "JP"
+      "id": 188458,
+      "logo_path": "/limNPrYGEOyKb4kjcZKdIk6K0Sh.png",
+      "name": "SIPUR",
+      "origin_country": "IL"
+    },
+    {
+      "id": 312527,
+      "logo_path": null,
+      "name": "Substance",
+      "origin_country": "US"
     }
   ],
   "production_countries": [
     {
-      "iso_3166_1": "JP",
-      "name": "Japan"
-    }
-  ],
-  "release_date": "2026-11-03",
-  "revenue": 104182654,
-  "runtime": 135,
-  "softcore": false,
-  "spoken_languages": [
-    {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "日本語"
+      "iso_3166_1": "US",
+      "name": "United States of America"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "iso_3166_1": "IL",
+      "name": "Israel"
     }
   ],
+  "release_date": "2026-08-27",
+  "revenue": 26977431,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [],
   "status": "Released",
-  "tagline": "There is no third time. Everything ends here.",
-  "title": "Godzilla Minus Zero",
+  "tagline": "It's Buddy!",
+  "title": "Buddy",
   "video": false,
-  "vote_average": 7.7,
-  "vote_count": 238,
+  "vote_average": 6.787,
+  "vote_count": 286,
   "media_type": "movie"
 }
