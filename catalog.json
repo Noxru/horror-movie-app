@@ -1,9 +1,22 @@
 {
-  "generated_at": "2026-11-18T04:05:17.251Z",
+  "generated_at": "2026-11-19T04:07:41.369Z",
   "sections": {
     "new": [
       {
         "id": 2,
+        "tmdbId": 1400837,
+        "title": "Other Mommy",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror",
+        "rating": "6.5",
+        "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 3,
         "tmdbId": 1423191,
         "title": "Resident Evil",
         "year": "2026",
@@ -16,26 +29,13 @@
         "section": "new"
       },
       {
-        "id": 3,
-        "tmdbId": 1400837,
-        "title": "Other Mommy",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror",
-        "rating": "6.4",
-        "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
-        "section": "new"
-      },
-      {
         "id": 4,
         "tmdbId": 1813355,
         "title": "A Story of Derry",
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.7",
+        "rating": "6.6",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -82,19 +82,6 @@
       },
       {
         "id": 8,
-        "tmdbId": 1567605,
-        "title": "Ebenezer",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Fantasy / Horror",
-        "rating": "7.6",
-        "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 9,
         "tmdbId": 1514026,
         "title": "Buddy",
         "year": "2026",
@@ -107,7 +94,7 @@
         "section": "new"
       },
       {
-        "id": 10,
+        "id": 9,
         "tmdbId": 1432306,
         "title": "Sleepwalker",
         "year": "2026",
@@ -120,7 +107,7 @@
         "section": "new"
       },
       {
-        "id": 11,
+        "id": 10,
         "tmdbId": 1595325,
         "title": "The Anacondas",
         "year": "2025",
@@ -130,6 +117,19 @@
         "tagline": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
         "detail": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yphysF14qWFvrIbFVg3vEnbudwT.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 11,
+        "tmdbId": 1400940,
+        "title": "Clayface",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "7.4",
+        "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+        "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -167,7 +167,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.7",
+        "rating": "6.6",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -227,32 +227,6 @@
       },
       {
         "id": 19,
-        "tmdbId": 1291595,
-        "title": "Insidious: Out of the Further",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "7.7",
-        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 20,
-        "tmdbId": 1657630,
-        "title": "The Awakening",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Fantasy",
-        "rating": "6.6",
-        "tagline": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "detail": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/AhP971WogMHbF5iKJPKi6e6oaya.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 21,
         "tmdbId": 1400940,
         "title": "Clayface",
         "year": "2026",
@@ -262,6 +236,32 @@
         "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 20,
+        "tmdbId": 1339713,
+        "title": "Obsession",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "8.2",
+        "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 21,
+        "tmdbId": 1291595,
+        "title": "Insidious: Out of the Further",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "7.7",
+        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
         "section": "kills"
       }
     ],
@@ -307,19 +307,6 @@
       },
       {
         "id": 25,
-        "tmdbId": 330613,
-        "title": "The Rules",
-        "year": "2026",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.5",
-        "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-        "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 26,
         "tmdbId": 1402,
         "title": "The Walking Dead",
         "year": "2010",
@@ -329,6 +316,19 @@
         "tagline": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
         "detail": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg') center/cover",
+        "section": "tv"
+      },
+      {
+        "id": 26,
+        "tmdbId": 330613,
+        "title": "The Rules",
+        "year": "2026",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.5",
+        "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+        "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
         "section": "tv"
       },
       {
@@ -351,7 +351,7 @@
         "year": "2026",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "7.5",
+        "rating": "7.4",
         "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
@@ -533,6 +533,19 @@
   "items": [
     {
       "id": 2,
+      "tmdbId": 1400837,
+      "title": "Other Mommy",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror",
+      "rating": "6.5",
+      "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 3,
       "tmdbId": 1423191,
       "title": "Resident Evil",
       "year": "2026",
@@ -545,26 +558,13 @@
       "section": "new"
     },
     {
-      "id": 3,
-      "tmdbId": 1400837,
-      "title": "Other Mommy",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror",
-      "rating": "6.4",
-      "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
-      "section": "new"
-    },
-    {
       "id": 4,
       "tmdbId": 1813355,
       "title": "A Story of Derry",
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.7",
+      "rating": "6.6",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -611,19 +611,6 @@
     },
     {
       "id": 8,
-      "tmdbId": 1567605,
-      "title": "Ebenezer",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Fantasy / Horror",
-      "rating": "7.6",
-      "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 9,
       "tmdbId": 1514026,
       "title": "Buddy",
       "year": "2026",
@@ -636,7 +623,7 @@
       "section": "new"
     },
     {
-      "id": 10,
+      "id": 9,
       "tmdbId": 1432306,
       "title": "Sleepwalker",
       "year": "2026",
@@ -649,7 +636,7 @@
       "section": "new"
     },
     {
-      "id": 11,
+      "id": 10,
       "tmdbId": 1595325,
       "title": "The Anacondas",
       "year": "2025",
@@ -659,6 +646,19 @@
       "tagline": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
       "detail": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yphysF14qWFvrIbFVg3vEnbudwT.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 11,
+      "tmdbId": 1400940,
+      "title": "Clayface",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "7.4",
+      "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
       "section": "new"
     },
     {
@@ -694,7 +694,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.7",
+      "rating": "6.6",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -754,32 +754,6 @@
     },
     {
       "id": 19,
-      "tmdbId": 1291595,
-      "title": "Insidious: Out of the Further",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "7.7",
-      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 20,
-      "tmdbId": 1657630,
-      "title": "The Awakening",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Fantasy",
-      "rating": "6.6",
-      "tagline": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-      "detail": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/AhP971WogMHbF5iKJPKi6e6oaya.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 21,
       "tmdbId": 1400940,
       "title": "Clayface",
       "year": "2026",
@@ -789,6 +763,32 @@
       "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
       "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 20,
+      "tmdbId": 1339713,
+      "title": "Obsession",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "8.2",
+      "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 21,
+      "tmdbId": 1291595,
+      "title": "Insidious: Out of the Further",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "7.7",
+      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -832,19 +832,6 @@
     },
     {
       "id": 25,
-      "tmdbId": 330613,
-      "title": "The Rules",
-      "year": "2026",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.5",
-      "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-      "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 26,
       "tmdbId": 1402,
       "title": "The Walking Dead",
       "year": "2010",
@@ -854,6 +841,19 @@
       "tagline": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
       "detail": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg') center/cover",
+      "section": "tv"
+    },
+    {
+      "id": 26,
+      "tmdbId": 330613,
+      "title": "The Rules",
+      "year": "2026",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.5",
+      "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+      "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
       "section": "tv"
     },
     {
@@ -876,7 +876,7 @@
       "year": "2026",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "7.5",
+      "rating": "7.4",
       "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
