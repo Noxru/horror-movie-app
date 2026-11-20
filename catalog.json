@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T04:07:41.369Z",
+  "generated_at": "2026-11-20T04:03:47.780Z",
   "sections": {
     "new": [
       {
@@ -95,32 +95,6 @@
       },
       {
         "id": 9,
-        "tmdbId": 1432306,
-        "title": "Sleepwalker",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Thriller / Horror",
-        "rating": "4.8",
-        "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-        "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 10,
-        "tmdbId": 1595325,
-        "title": "The Anacondas",
-        "year": "2025",
-        "type": "Movie",
-        "genre": "Horror",
-        "rating": "3.4",
-        "tagline": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
-        "detail": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yphysF14qWFvrIbFVg3vEnbudwT.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 11,
         "tmdbId": 1400940,
         "title": "Clayface",
         "year": "2026",
@@ -131,24 +105,37 @@
         "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
         "section": "new"
+      },
+      {
+        "id": 10,
+        "tmdbId": 1339713,
+        "title": "Obsession",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "8.2",
+        "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 11,
+        "tmdbId": 1432306,
+        "title": "Sleepwalker",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Thriller / Horror",
+        "rating": "4.8",
+        "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+        "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
+        "section": "new"
       }
     ],
     "kills": [
       {
         "id": 12,
-        "tmdbId": 1423191,
-        "title": "Resident Evil",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Sci-Fi",
-        "rating": "7.5",
-        "tagline": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "detail": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 13,
         "tmdbId": 1400837,
         "title": "Other Mommy",
         "year": "2026",
@@ -158,6 +145,19 @@
         "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 13,
+        "tmdbId": 1423191,
+        "title": "Resident Evil",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Sci-Fi",
+        "rating": "7.5",
+        "tagline": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "detail": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg') center/cover",
         "section": "kills"
       },
       {
@@ -214,19 +214,6 @@
       },
       {
         "id": 18,
-        "tmdbId": 940721,
-        "title": "Godzilla Minus One",
-        "year": "2023",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.6",
-        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 19,
         "tmdbId": 1400940,
         "title": "Clayface",
         "year": "2026",
@@ -236,6 +223,19 @@
         "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 19,
+        "tmdbId": 940721,
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.6",
+        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
         "section": "kills"
       },
       {
@@ -294,6 +294,19 @@
       },
       {
         "id": 24,
+        "tmdbId": 330613,
+        "title": "The Rules",
+        "year": "2026",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.5",
+        "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+        "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
+        "section": "tv"
+      },
+      {
+        "id": 25,
         "tmdbId": 124364,
         "title": "FROM",
         "year": "2022",
@@ -306,7 +319,7 @@
         "section": "tv"
       },
       {
-        "id": 25,
+        "id": 26,
         "tmdbId": 1402,
         "title": "The Walking Dead",
         "year": "2010",
@@ -316,19 +329,6 @@
         "tagline": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
         "detail": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 26,
-        "tmdbId": 330613,
-        "title": "The Rules",
-        "year": "2026",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.5",
-        "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-        "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
         "section": "tv"
       },
       {
@@ -351,7 +351,7 @@
         "year": "2026",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "7.4",
+        "rating": "7.5",
         "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
@@ -624,32 +624,6 @@
     },
     {
       "id": 9,
-      "tmdbId": 1432306,
-      "title": "Sleepwalker",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Thriller / Horror",
-      "rating": "4.8",
-      "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-      "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 10,
-      "tmdbId": 1595325,
-      "title": "The Anacondas",
-      "year": "2025",
-      "type": "Movie",
-      "genre": "Horror",
-      "rating": "3.4",
-      "tagline": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
-      "detail": "Explorers in Mexico uncover the ruins of an ancient snake-worshiping civilization. Celebration turns to horror when they awaken an ever-growing anaconda, starved of human sacrifices for centuries. Now, the team must band together to survive.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yphysF14qWFvrIbFVg3vEnbudwT.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 11,
       "tmdbId": 1400940,
       "title": "Clayface",
       "year": "2026",
@@ -662,20 +636,33 @@
       "section": "new"
     },
     {
-      "id": 12,
-      "tmdbId": 1423191,
-      "title": "Resident Evil",
+      "id": 10,
+      "tmdbId": 1339713,
+      "title": "Obsession",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Sci-Fi",
-      "rating": "7.5",
-      "tagline": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "detail": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg') center/cover",
-      "section": "kills"
+      "genre": "Horror / Thriller",
+      "rating": "8.2",
+      "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+      "section": "new"
     },
     {
-      "id": 13,
+      "id": 11,
+      "tmdbId": 1432306,
+      "title": "Sleepwalker",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Thriller / Horror",
+      "rating": "4.8",
+      "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+      "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 12,
       "tmdbId": 1400837,
       "title": "Other Mommy",
       "year": "2026",
@@ -685,6 +672,19 @@
       "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 13,
+      "tmdbId": 1423191,
+      "title": "Resident Evil",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Sci-Fi",
+      "rating": "7.5",
+      "tagline": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "detail": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -741,19 +741,6 @@
     },
     {
       "id": 18,
-      "tmdbId": 940721,
-      "title": "Godzilla Minus One",
-      "year": "2023",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.6",
-      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 19,
       "tmdbId": 1400940,
       "title": "Clayface",
       "year": "2026",
@@ -763,6 +750,19 @@
       "tagline": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
       "detail": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 19,
+      "tmdbId": 940721,
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.6",
+      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -819,6 +819,19 @@
     },
     {
       "id": 24,
+      "tmdbId": 330613,
+      "title": "The Rules",
+      "year": "2026",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.5",
+      "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+      "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
+      "section": "tv"
+    },
+    {
+      "id": 25,
       "tmdbId": 124364,
       "title": "FROM",
       "year": "2022",
@@ -831,7 +844,7 @@
       "section": "tv"
     },
     {
-      "id": 25,
+      "id": 26,
       "tmdbId": 1402,
       "title": "The Walking Dead",
       "year": "2010",
@@ -841,19 +854,6 @@
       "tagline": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
       "detail": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 26,
-      "tmdbId": 330613,
-      "title": "The Rules",
-      "year": "2026",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.5",
-      "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-      "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
       "section": "tv"
     },
     {
@@ -876,7 +876,7 @@
       "year": "2026",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "7.4",
+      "rating": "7.5",
       "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
