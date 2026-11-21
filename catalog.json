@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:03:47.780Z",
+  "generated_at": "2026-11-21T04:00:10.967Z",
   "sections": {
     "new": [
       {
@@ -9,7 +9,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror",
-        "rating": "6.5",
+        "rating": "6.4",
         "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -35,7 +35,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.6",
+        "rating": "6.5",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -43,6 +43,19 @@
       },
       {
         "id": 5,
+        "tmdbId": 1244523,
+        "title": "Beware Boiúna",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "5.9",
+        "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+        "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 6,
         "tmdbId": 1507696,
         "title": "Apocalypse Z: New World",
         "year": "2026",
@@ -52,19 +65,6 @@
         "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
         "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 6,
-        "tmdbId": 1244523,
-        "title": "Beware Boiúna",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "6.0",
-        "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-        "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg') center/cover",
         "section": "new"
       },
       {
@@ -121,15 +121,15 @@
       },
       {
         "id": 11,
-        "tmdbId": 1432306,
-        "title": "Sleepwalker",
+        "tmdbId": 1291595,
+        "title": "Insidious: Out of the Further",
         "year": "2026",
         "type": "Movie",
-        "genre": "Thriller / Horror",
-        "rating": "4.8",
-        "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-        "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
+        "genre": "Horror / Thriller",
+        "rating": "7.7",
+        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -167,7 +167,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.6",
+        "rating": "6.5",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -227,19 +227,6 @@
       },
       {
         "id": 19,
-        "tmdbId": 940721,
-        "title": "Godzilla Minus One",
-        "year": "2023",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.6",
-        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 20,
         "tmdbId": 1339713,
         "title": "Obsession",
         "year": "2026",
@@ -249,6 +236,19 @@
         "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 20,
+        "tmdbId": 940721,
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.6",
+        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
         "section": "kills"
       },
       {
@@ -268,19 +268,6 @@
     "tv": [
       {
         "id": 22,
-        "tmdbId": 1413,
-        "title": "American Horror Story",
-        "year": "2011",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.1",
-        "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-        "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 23,
         "tmdbId": 1622,
         "title": "Supernatural",
         "year": "2005",
@@ -293,7 +280,33 @@
         "section": "tv"
       },
       {
+        "id": 23,
+        "tmdbId": 1413,
+        "title": "American Horror Story",
+        "year": "2011",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.1",
+        "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
+        "section": "tv"
+      },
+      {
         "id": 24,
+        "tmdbId": 42009,
+        "title": "Black Mirror",
+        "year": "2011",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.3",
+        "tagline": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+        "detail": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg') center/cover",
+        "section": "tv"
+      },
+      {
+        "id": 25,
         "tmdbId": 330613,
         "title": "The Rules",
         "year": "2026",
@@ -306,7 +319,7 @@
         "section": "tv"
       },
       {
-        "id": 25,
+        "id": 26,
         "tmdbId": 124364,
         "title": "FROM",
         "year": "2022",
@@ -319,7 +332,7 @@
         "section": "tv"
       },
       {
-        "id": 26,
+        "id": 27,
         "tmdbId": 1402,
         "title": "The Walking Dead",
         "year": "2010",
@@ -332,7 +345,7 @@
         "section": "tv"
       },
       {
-        "id": 27,
+        "id": 28,
         "tmdbId": 66732,
         "title": "Stranger Things",
         "year": "2016",
@@ -345,7 +358,7 @@
         "section": "tv"
       },
       {
-        "id": 28,
+        "id": 29,
         "tmdbId": 289517,
         "title": "Dead-End Job",
         "year": "2026",
@@ -355,19 +368,6 @@
         "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 29,
-        "tmdbId": 42009,
-        "title": "Black Mirror",
-        "year": "2011",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.3",
-        "tagline": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-        "detail": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg') center/cover",
         "section": "tv"
       },
       {
@@ -538,7 +538,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror",
-      "rating": "6.5",
+      "rating": "6.4",
       "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -564,7 +564,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.6",
+      "rating": "6.5",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -572,6 +572,19 @@
     },
     {
       "id": 5,
+      "tmdbId": 1244523,
+      "title": "Beware Boiúna",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "5.9",
+      "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+      "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 6,
       "tmdbId": 1507696,
       "title": "Apocalypse Z: New World",
       "year": "2026",
@@ -581,19 +594,6 @@
       "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 6,
-      "tmdbId": 1244523,
-      "title": "Beware Boiúna",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "6.0",
-      "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-      "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg') center/cover",
       "section": "new"
     },
     {
@@ -650,15 +650,15 @@
     },
     {
       "id": 11,
-      "tmdbId": 1432306,
-      "title": "Sleepwalker",
+      "tmdbId": 1291595,
+      "title": "Insidious: Out of the Further",
       "year": "2026",
       "type": "Movie",
-      "genre": "Thriller / Horror",
-      "rating": "4.8",
-      "tagline": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-      "detail": "A grieving mother is haunted by the tragic loss of her daughter in a car accident that left her abusive husband in a coma. As she battles a surreal descent into darkness, her sleepwalking episodes intensify. Plagued by haunting visions of her husband inside their home, she grapples with the blurred lines between reality and nightmare.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg') center/cover",
+      "genre": "Horror / Thriller",
+      "rating": "7.7",
+      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
       "section": "new"
     },
     {
@@ -694,7 +694,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.6",
+      "rating": "6.5",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -754,19 +754,6 @@
     },
     {
       "id": 19,
-      "tmdbId": 940721,
-      "title": "Godzilla Minus One",
-      "year": "2023",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.6",
-      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 20,
       "tmdbId": 1339713,
       "title": "Obsession",
       "year": "2026",
@@ -776,6 +763,19 @@
       "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 20,
+      "tmdbId": 940721,
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.6",
+      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -793,19 +793,6 @@
     },
     {
       "id": 22,
-      "tmdbId": 1413,
-      "title": "American Horror Story",
-      "year": "2011",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.1",
-      "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 23,
       "tmdbId": 1622,
       "title": "Supernatural",
       "year": "2005",
@@ -818,7 +805,33 @@
       "section": "tv"
     },
     {
+      "id": 23,
+      "tmdbId": 1413,
+      "title": "American Horror Story",
+      "year": "2011",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.1",
+      "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
+      "section": "tv"
+    },
+    {
       "id": 24,
+      "tmdbId": 42009,
+      "title": "Black Mirror",
+      "year": "2011",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.3",
+      "tagline": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+      "detail": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg') center/cover",
+      "section": "tv"
+    },
+    {
+      "id": 25,
       "tmdbId": 330613,
       "title": "The Rules",
       "year": "2026",
@@ -831,7 +844,7 @@
       "section": "tv"
     },
     {
-      "id": 25,
+      "id": 26,
       "tmdbId": 124364,
       "title": "FROM",
       "year": "2022",
@@ -844,7 +857,7 @@
       "section": "tv"
     },
     {
-      "id": 26,
+      "id": 27,
       "tmdbId": 1402,
       "title": "The Walking Dead",
       "year": "2010",
@@ -857,7 +870,7 @@
       "section": "tv"
     },
     {
-      "id": 27,
+      "id": 28,
       "tmdbId": 66732,
       "title": "Stranger Things",
       "year": "2016",
@@ -870,7 +883,7 @@
       "section": "tv"
     },
     {
-      "id": 28,
+      "id": 29,
       "tmdbId": 289517,
       "title": "Dead-End Job",
       "year": "2026",
@@ -880,19 +893,6 @@
       "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 29,
-      "tmdbId": 42009,
-      "title": "Black Mirror",
-      "year": "2011",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.3",
-      "tagline": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-      "detail": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg') center/cover",
       "section": "tv"
     },
     {
