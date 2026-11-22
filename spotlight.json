@@ -1,85 +1,94 @@
 {
   "adult": false,
-  "backdrop_path": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+  "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
   "belongs_to_collection": {
-    "id": 1474814,
-    "name": "Godzilla Minus Collection",
-    "poster_path": "/gbo6zavrKwKVcxpV8GKolN8WA4T.jpg",
-    "backdrop_path": "/mTfkjYslpoCm6BC9RlIYgedNwcE.jpg"
+    "id": 228446,
+    "name": "Insidious Collection",
+    "poster_path": "/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
+    "backdrop_path": "/4AqPzs4OTdhZXU5kgkfqny01pvL.jpg"
   },
-  "budget": 15000000,
+  "budget": 18000000,
   "genres": [
-    {
-      "id": 878,
-      "name": "Science Fiction"
-    },
     {
       "id": 27,
       "name": "Horror"
     },
     {
-      "id": 28,
-      "name": "Action"
+      "id": 53,
+      "name": "Thriller"
     }
   ],
-  "homepage": "https://godzillafilm.co.uk",
-  "id": 940721,
-  "imdb_id": "tt23289160",
+  "homepage": "https://insidious.movie/",
+  "id": 1291595,
+  "imdb_id": "tt32393988",
   "origin_country": [
-    "JP"
+    "US"
   ],
-  "original_language": "ja",
-  "original_title": "ゴジラ-1.0",
-  "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-  "popularity": 73.1427,
-  "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+  "original_language": "en",
+  "original_title": "Insidious: Out of the Further",
+  "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+  "popularity": 70.2065,
+  "poster_path": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
   "production_companies": [
     {
-      "id": 882,
-      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-      "name": "TOHO",
-      "origin_country": "JP"
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
     },
     {
-      "id": 182161,
-      "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
-      "name": "TOHO Studios",
-      "origin_country": "JP"
+      "id": 11341,
+      "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png",
+      "name": "Stage 6 Films",
+      "origin_country": "US"
     },
     {
-      "id": 12386,
-      "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
-      "name": "Robot Communications",
-      "origin_country": "JP"
+      "id": 76907,
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 314016,
+      "logo_path": "/m9hpJbTXQIJfGSqYqaYDboUyjac.png",
+      "name": "Blumhouse Atomic",
+      "origin_country": "US"
+    },
+    {
+      "id": 206395,
+      "logo_path": null,
+      "name": "Oren Peli Productions",
+      "origin_country": "US"
     }
   ],
   "production_countries": [
     {
-      "iso_3166_1": "JP",
-      "name": "Japan"
+      "iso_3166_1": "US",
+      "name": "United States of America"
     }
   ],
-  "release_date": "2023-11-03",
-  "revenue": 113932284,
-  "runtime": 125,
+  "release_date": "2026-08-19",
+  "revenue": 171715763,
+  "runtime": 106,
   "softcore": false,
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "日本語"
     }
   ],
   "status": "Released",
-  "tagline": "戦後、日本。無（ゼロ）から負（マイナス）へ。",
-  "title": "Godzilla Minus One",
+  "tagline": "Evil found a way out.",
+  "title": "Insidious: Out of the Further",
   "video": false,
-  "vote_average": 7.63,
-  "vote_count": 3718,
+  "vote_average": 7.67,
+  "vote_count": 1088,
   "media_type": "movie"
 }
