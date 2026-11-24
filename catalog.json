@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:18:24.061Z",
+  "generated_at": "2026-11-24T04:10:47.646Z",
   "sections": {
     "new": [
       {
@@ -43,6 +43,19 @@
       },
       {
         "id": 5,
+        "tmdbId": 1244523,
+        "title": "Beware Boiúna",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "6.0",
+        "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+        "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 6,
         "tmdbId": 1813355,
         "title": "A Story of Derry",
         "year": "2026",
@@ -55,20 +68,20 @@
         "section": "new"
       },
       {
-        "id": 6,
-        "tmdbId": 1244523,
-        "title": "Beware Boiúna",
+        "id": 7,
+        "tmdbId": 1741617,
+        "title": "Hansel & Gretel's Halloween",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "5.9",
-        "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-        "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg') center/cover",
+        "genre": "Horror / Fantasy",
+        "rating": "6.6",
+        "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+        "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
         "section": "new"
       },
       {
-        "id": 7,
+        "id": 8,
         "tmdbId": 1381071,
         "title": "Godzilla Minus Zero",
         "year": "2026",
@@ -78,19 +91,6 @@
         "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
         "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 8,
-        "tmdbId": 1741617,
-        "title": "Hansel & Gretel's Halloween",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Fantasy",
-        "rating": "6.3",
-        "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-        "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
         "section": "new"
       },
       {
@@ -121,15 +121,15 @@
       },
       {
         "id": 11,
-        "tmdbId": 1339713,
-        "title": "Obsession",
+        "tmdbId": 1492566,
+        "title": "Dracula Eternal",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "8.2",
-        "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+        "genre": "Horror",
+        "rating": "3.0",
+        "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+        "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -240,19 +240,6 @@
       },
       {
         "id": 20,
-        "tmdbId": 940721,
-        "title": "Godzilla Minus One",
-        "year": "2023",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.6",
-        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 21,
         "tmdbId": 1291595,
         "title": "Insidious: Out of the Further",
         "year": "2026",
@@ -263,37 +250,24 @@
         "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
         "section": "kills"
+      },
+      {
+        "id": 21,
+        "tmdbId": 1375646,
+        "title": "Colony",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Sci-Fi",
+        "rating": "8.2",
+        "tagline": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "detail": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg') center/cover",
+        "section": "kills"
       }
     ],
     "tv": [
       {
         "id": 22,
-        "tmdbId": 1622,
-        "title": "Supernatural",
-        "year": "2005",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.3",
-        "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-        "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 23,
-        "tmdbId": 1413,
-        "title": "American Horror Story",
-        "year": "2011",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.1",
-        "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-        "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 24,
         "tmdbId": 42009,
         "title": "Black Mirror",
         "year": "2011",
@@ -306,13 +280,39 @@
         "section": "tv"
       },
       {
+        "id": 23,
+        "tmdbId": 1622,
+        "title": "Supernatural",
+        "year": "2005",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.3",
+        "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
+        "section": "tv"
+      },
+      {
+        "id": 24,
+        "tmdbId": 1413,
+        "title": "American Horror Story",
+        "year": "2011",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.1",
+        "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
+        "section": "tv"
+      },
+      {
         "id": 25,
         "tmdbId": 330613,
         "title": "The Rules",
         "year": "2026",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "8.5",
+        "rating": "8.7",
         "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
@@ -372,6 +372,19 @@
       },
       {
         "id": 30,
+        "tmdbId": 21728,
+        "title": "The Alfred Hitchcock Hour",
+        "year": "1962",
+        "type": "TV",
+        "genre": "Crime / Mystery",
+        "rating": "7.9",
+        "tagline": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
+        "detail": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6bnJU1YmobWBNokjLruUsZ6cykC.jpg') center/cover",
+        "section": "tv"
+      },
+      {
+        "id": 31,
         "tmdbId": 289517,
         "title": "Dead-End Job",
         "year": "2026",
@@ -381,19 +394,6 @@
         "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 31,
-        "tmdbId": 62286,
-        "title": "Fear the Walking Dead",
-        "year": "2015",
-        "type": "TV",
-        "genre": "Horror",
-        "rating": "7.6",
-        "tagline": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
-        "detail": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/eKt4ELpQZUKGZCKIDobEbwHwk3I.jpg') center/cover",
         "section": "tv"
       }
     ],
@@ -572,6 +572,19 @@
     },
     {
       "id": 5,
+      "tmdbId": 1244523,
+      "title": "Beware Boiúna",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "6.0",
+      "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+      "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 6,
       "tmdbId": 1813355,
       "title": "A Story of Derry",
       "year": "2026",
@@ -584,20 +597,20 @@
       "section": "new"
     },
     {
-      "id": 6,
-      "tmdbId": 1244523,
-      "title": "Beware Boiúna",
+      "id": 7,
+      "tmdbId": 1741617,
+      "title": "Hansel & Gretel's Halloween",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "5.9",
-      "tagline": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-      "detail": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg') center/cover",
+      "genre": "Horror / Fantasy",
+      "rating": "6.6",
+      "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+      "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
       "section": "new"
     },
     {
-      "id": 7,
+      "id": 8,
       "tmdbId": 1381071,
       "title": "Godzilla Minus Zero",
       "year": "2026",
@@ -607,19 +620,6 @@
       "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
       "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 8,
-      "tmdbId": 1741617,
-      "title": "Hansel & Gretel's Halloween",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Fantasy",
-      "rating": "6.3",
-      "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-      "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
       "section": "new"
     },
     {
@@ -650,15 +650,15 @@
     },
     {
       "id": 11,
-      "tmdbId": 1339713,
-      "title": "Obsession",
+      "tmdbId": 1492566,
+      "title": "Dracula Eternal",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "8.2",
-      "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+      "genre": "Horror",
+      "rating": "3.0",
+      "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+      "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
       "section": "new"
     },
     {
@@ -767,19 +767,6 @@
     },
     {
       "id": 20,
-      "tmdbId": 940721,
-      "title": "Godzilla Minus One",
-      "year": "2023",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.6",
-      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 21,
       "tmdbId": 1291595,
       "title": "Insidious: Out of the Further",
       "year": "2026",
@@ -792,33 +779,20 @@
       "section": "kills"
     },
     {
+      "id": 21,
+      "tmdbId": 1375646,
+      "title": "Colony",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Sci-Fi",
+      "rating": "8.2",
+      "tagline": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "detail": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg') center/cover",
+      "section": "kills"
+    },
+    {
       "id": 22,
-      "tmdbId": 1622,
-      "title": "Supernatural",
-      "year": "2005",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.3",
-      "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 23,
-      "tmdbId": 1413,
-      "title": "American Horror Story",
-      "year": "2011",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.1",
-      "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 24,
       "tmdbId": 42009,
       "title": "Black Mirror",
       "year": "2011",
@@ -831,13 +805,39 @@
       "section": "tv"
     },
     {
+      "id": 23,
+      "tmdbId": 1622,
+      "title": "Supernatural",
+      "year": "2005",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.3",
+      "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
+      "section": "tv"
+    },
+    {
+      "id": 24,
+      "tmdbId": 1413,
+      "title": "American Horror Story",
+      "year": "2011",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.1",
+      "tagline": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "detail": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg') center/cover",
+      "section": "tv"
+    },
+    {
       "id": 25,
       "tmdbId": 330613,
       "title": "The Rules",
       "year": "2026",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "8.5",
+      "rating": "8.7",
       "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
@@ -897,6 +897,19 @@
     },
     {
       "id": 30,
+      "tmdbId": 21728,
+      "title": "The Alfred Hitchcock Hour",
+      "year": "1962",
+      "type": "TV",
+      "genre": "Crime / Mystery",
+      "rating": "7.9",
+      "tagline": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
+      "detail": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6bnJU1YmobWBNokjLruUsZ6cykC.jpg') center/cover",
+      "section": "tv"
+    },
+    {
+      "id": 31,
       "tmdbId": 289517,
       "title": "Dead-End Job",
       "year": "2026",
@@ -906,19 +919,6 @@
       "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 31,
-      "tmdbId": 62286,
-      "title": "Fear the Walking Dead",
-      "year": "2015",
-      "type": "TV",
-      "genre": "Horror",
-      "rating": "7.6",
-      "tagline": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
-      "detail": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/eKt4ELpQZUKGZCKIDobEbwHwk3I.jpg') center/cover",
       "section": "tv"
     },
     {
