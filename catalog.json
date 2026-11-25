@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:10:47.646Z",
+  "generated_at": "2026-11-25T04:18:54.944Z",
   "sections": {
     "new": [
       {
@@ -74,7 +74,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Fantasy",
-        "rating": "6.6",
+        "rating": "6.8",
         "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
         "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
@@ -95,15 +95,15 @@
       },
       {
         "id": 9,
-        "tmdbId": 1567605,
-        "title": "Ebenezer",
+        "tmdbId": 1492566,
+        "title": "Dracula Eternal",
         "year": "2026",
         "type": "Movie",
-        "genre": "Fantasy / Horror",
-        "rating": "7.5",
-        "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
+        "genre": "Horror",
+        "rating": "2.3",
+        "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+        "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
         "section": "new"
       },
       {
@@ -121,15 +121,15 @@
       },
       {
         "id": 11,
-        "tmdbId": 1492566,
-        "title": "Dracula Eternal",
+        "tmdbId": 1339713,
+        "title": "Obsession",
         "year": "2026",
         "type": "Movie",
-        "genre": "Horror",
-        "rating": "3.0",
-        "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
-        "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
+        "genre": "Horror / Thriller",
+        "rating": "8.2",
+        "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -201,19 +201,6 @@
       },
       {
         "id": 17,
-        "tmdbId": 1567605,
-        "title": "Ebenezer",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Fantasy / Horror",
-        "rating": "7.5",
-        "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 18,
         "tmdbId": 1514026,
         "title": "Buddy",
         "year": "2026",
@@ -226,7 +213,7 @@
         "section": "kills"
       },
       {
-        "id": 19,
+        "id": 18,
         "tmdbId": 1339713,
         "title": "Obsession",
         "year": "2026",
@@ -239,7 +226,7 @@
         "section": "kills"
       },
       {
-        "id": 20,
+        "id": 19,
         "tmdbId": 1291595,
         "title": "Insidious: Out of the Further",
         "year": "2026",
@@ -252,7 +239,7 @@
         "section": "kills"
       },
       {
-        "id": 21,
+        "id": 20,
         "tmdbId": 1375646,
         "title": "Colony",
         "year": "2026",
@@ -262,6 +249,19 @@
         "tagline": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
         "detail": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 21,
+        "tmdbId": 940721,
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.6",
+        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
         "section": "kills"
       }
     ],
@@ -312,7 +312,7 @@
         "year": "2026",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "8.7",
+        "rating": "9.0",
         "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
@@ -385,15 +385,15 @@
       },
       {
         "id": 31,
-        "tmdbId": 289517,
-        "title": "Dead-End Job",
-        "year": "2026",
+        "tmdbId": 71488,
+        "title": "Tales of the Bizarre",
+        "year": "1990",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "7.6",
-        "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-        "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
+        "rating": "7.8",
+        "tagline": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
+        "detail": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7XVTRl17sNGh8tRzSczEZXaiwPG.jpg') center/cover",
         "section": "tv"
       }
     ],
@@ -603,7 +603,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Fantasy",
-      "rating": "6.6",
+      "rating": "6.8",
       "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
       "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
@@ -624,15 +624,15 @@
     },
     {
       "id": 9,
-      "tmdbId": 1567605,
-      "title": "Ebenezer",
+      "tmdbId": 1492566,
+      "title": "Dracula Eternal",
       "year": "2026",
       "type": "Movie",
-      "genre": "Fantasy / Horror",
-      "rating": "7.5",
-      "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
+      "genre": "Horror",
+      "rating": "2.3",
+      "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+      "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
       "section": "new"
     },
     {
@@ -650,15 +650,15 @@
     },
     {
       "id": 11,
-      "tmdbId": 1492566,
-      "title": "Dracula Eternal",
+      "tmdbId": 1339713,
+      "title": "Obsession",
       "year": "2026",
       "type": "Movie",
-      "genre": "Horror",
-      "rating": "3.0",
-      "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
-      "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
+      "genre": "Horror / Thriller",
+      "rating": "8.2",
+      "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
       "section": "new"
     },
     {
@@ -728,19 +728,6 @@
     },
     {
       "id": 17,
-      "tmdbId": 1567605,
-      "title": "Ebenezer",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Fantasy / Horror",
-      "rating": "7.5",
-      "tagline": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "detail": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 18,
       "tmdbId": 1514026,
       "title": "Buddy",
       "year": "2026",
@@ -753,7 +740,7 @@
       "section": "kills"
     },
     {
-      "id": 19,
+      "id": 18,
       "tmdbId": 1339713,
       "title": "Obsession",
       "year": "2026",
@@ -766,7 +753,7 @@
       "section": "kills"
     },
     {
-      "id": 20,
+      "id": 19,
       "tmdbId": 1291595,
       "title": "Insidious: Out of the Further",
       "year": "2026",
@@ -779,7 +766,7 @@
       "section": "kills"
     },
     {
-      "id": 21,
+      "id": 20,
       "tmdbId": 1375646,
       "title": "Colony",
       "year": "2026",
@@ -789,6 +776,19 @@
       "tagline": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "detail": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/enz3WLx5QU1FUyhXZld04QWIc6N.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 21,
+      "tmdbId": 940721,
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.6",
+      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -837,7 +837,7 @@
       "year": "2026",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "8.7",
+      "rating": "9.0",
       "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
@@ -910,15 +910,15 @@
     },
     {
       "id": 31,
-      "tmdbId": 289517,
-      "title": "Dead-End Job",
-      "year": "2026",
+      "tmdbId": 71488,
+      "title": "Tales of the Bizarre",
+      "year": "1990",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "7.6",
-      "tagline": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "detail": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg') center/cover",
+      "rating": "7.8",
+      "tagline": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
+      "detail": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/7XVTRl17sNGh8tRzSczEZXaiwPG.jpg') center/cover",
       "section": "tv"
     },
     {
