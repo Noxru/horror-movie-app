@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:18:54.944Z",
+  "generated_at": "2026-11-26T04:14:29.662Z",
   "sections": {
     "new": [
       {
@@ -35,7 +35,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Thriller / Horror",
-        "rating": "6.2",
+        "rating": "6.1",
         "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
         "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
@@ -56,19 +56,6 @@
       },
       {
         "id": 6,
-        "tmdbId": 1813355,
-        "title": "A Story of Derry",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Mystery",
-        "rating": "6.6",
-        "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-        "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 7,
         "tmdbId": 1741617,
         "title": "Hansel & Gretel's Halloween",
         "year": "2026",
@@ -81,16 +68,29 @@
         "section": "new"
       },
       {
-        "id": 8,
-        "tmdbId": 1381071,
-        "title": "Godzilla Minus Zero",
+        "id": 7,
+        "tmdbId": 1813355,
+        "title": "A Story of Derry",
         "year": "2026",
         "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.7",
-        "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
+        "genre": "Horror / Mystery",
+        "rating": "6.6",
+        "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+        "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 8,
+        "tmdbId": 1496696,
+        "title": "Breeder",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Thriller",
+        "rating": "7.3",
+        "tagline": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+        "detail": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg') center/cover",
         "section": "new"
       },
       {
@@ -108,6 +108,19 @@
       },
       {
         "id": 10,
+        "tmdbId": 1381071,
+        "title": "Godzilla Minus Zero",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.7",
+        "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 11,
         "tmdbId": 1514026,
         "title": "Buddy",
         "year": "2026",
@@ -117,19 +130,6 @@
         "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
         "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 11,
-        "tmdbId": 1339713,
-        "title": "Obsession",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "8.2",
-        "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -227,19 +227,6 @@
       },
       {
         "id": 19,
-        "tmdbId": 1291595,
-        "title": "Insidious: Out of the Further",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Thriller",
-        "rating": "7.7",
-        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 20,
         "tmdbId": 1375646,
         "title": "Colony",
         "year": "2026",
@@ -252,16 +239,29 @@
         "section": "kills"
       },
       {
-        "id": 21,
-        "tmdbId": 940721,
-        "title": "Godzilla Minus One",
-        "year": "2023",
+        "id": 20,
+        "tmdbId": 1291595,
+        "title": "Insidious: Out of the Further",
+        "year": "2026",
         "type": "Movie",
-        "genre": "Sci-Fi / Horror",
+        "genre": "Horror / Thriller",
         "rating": "7.6",
-        "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
+        "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 21,
+        "tmdbId": 14836,
+        "title": "Coraline",
+        "year": "2009",
+        "type": "Movie",
+        "genre": "Fantasy / Horror",
+        "rating": "8.0",
+        "tagline": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+        "detail": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg') center/cover",
         "section": "kills"
       }
     ],
@@ -564,7 +564,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Thriller / Horror",
-      "rating": "6.2",
+      "rating": "6.1",
       "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
@@ -585,19 +585,6 @@
     },
     {
       "id": 6,
-      "tmdbId": 1813355,
-      "title": "A Story of Derry",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Mystery",
-      "rating": "6.6",
-      "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 7,
       "tmdbId": 1741617,
       "title": "Hansel & Gretel's Halloween",
       "year": "2026",
@@ -610,16 +597,29 @@
       "section": "new"
     },
     {
-      "id": 8,
-      "tmdbId": 1381071,
-      "title": "Godzilla Minus Zero",
+      "id": 7,
+      "tmdbId": 1813355,
+      "title": "A Story of Derry",
       "year": "2026",
       "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.7",
-      "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
+      "genre": "Horror / Mystery",
+      "rating": "6.6",
+      "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 8,
+      "tmdbId": 1496696,
+      "title": "Breeder",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Thriller",
+      "rating": "7.3",
+      "tagline": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+      "detail": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg') center/cover",
       "section": "new"
     },
     {
@@ -637,6 +637,19 @@
     },
     {
       "id": 10,
+      "tmdbId": 1381071,
+      "title": "Godzilla Minus Zero",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.7",
+      "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 11,
       "tmdbId": 1514026,
       "title": "Buddy",
       "year": "2026",
@@ -646,19 +659,6 @@
       "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
       "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 11,
-      "tmdbId": 1339713,
-      "title": "Obsession",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "8.2",
-      "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
       "section": "new"
     },
     {
@@ -754,19 +754,6 @@
     },
     {
       "id": 19,
-      "tmdbId": 1291595,
-      "title": "Insidious: Out of the Further",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Thriller",
-      "rating": "7.7",
-      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 20,
       "tmdbId": 1375646,
       "title": "Colony",
       "year": "2026",
@@ -779,16 +766,29 @@
       "section": "kills"
     },
     {
-      "id": 21,
-      "tmdbId": 940721,
-      "title": "Godzilla Minus One",
-      "year": "2023",
+      "id": 20,
+      "tmdbId": 1291595,
+      "title": "Insidious: Out of the Further",
+      "year": "2026",
       "type": "Movie",
-      "genre": "Sci-Fi / Horror",
+      "genre": "Horror / Thriller",
       "rating": "7.6",
-      "tagline": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "detail": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg') center/cover",
+      "tagline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "detail": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 21,
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": "2009",
+      "type": "Movie",
+      "genre": "Fantasy / Horror",
+      "rating": "8.0",
+      "tagline": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "detail": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg') center/cover",
       "section": "kills"
     },
     {
