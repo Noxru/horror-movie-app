@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:18:07.983Z",
+  "generated_at": "2026-11-28T04:06:44.517Z",
   "sections": {
     "new": [
       {
@@ -9,7 +9,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror",
-        "rating": "6.5",
+        "rating": "6.6",
         "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -30,19 +30,6 @@
       },
       {
         "id": 4,
-        "tmdbId": 1507696,
-        "title": "Apocalypse Z: New World",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Thriller / Horror",
-        "rating": "6.1",
-        "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-        "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 5,
         "tmdbId": 1741617,
         "title": "Hansel & Gretel's Halloween",
         "year": "2026",
@@ -52,6 +39,19 @@
         "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
         "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 5,
+        "tmdbId": 1507696,
+        "title": "Apocalypse Z: New World",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Thriller / Horror",
+        "rating": "6.1",
+        "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+        "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
         "section": "new"
       },
       {
@@ -69,28 +69,28 @@
       },
       {
         "id": 7,
-        "tmdbId": 1813355,
-        "title": "A Story of Derry",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Horror / Mystery",
-        "rating": "6.6",
-        "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-        "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 8,
         "tmdbId": 1496696,
         "title": "Breeder",
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Thriller",
-        "rating": "7.5",
+        "rating": "7.4",
         "tagline": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
         "detail": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 8,
+        "tmdbId": 1813355,
+        "title": "A Story of Derry",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Mystery",
+        "rating": "6.7",
+        "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+        "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
         "section": "new"
       },
       {
@@ -100,7 +100,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror",
-        "rating": "2.2",
+        "rating": "5.1",
         "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
         "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
@@ -108,19 +108,6 @@
       },
       {
         "id": 10,
-        "tmdbId": 1381071,
-        "title": "Godzilla Minus Zero",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.7",
-        "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-        "section": "new"
-      },
-      {
-        "id": 11,
         "tmdbId": 1339713,
         "title": "Obsession",
         "year": "2026",
@@ -130,6 +117,19 @@
         "tagline": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "detail": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg') center/cover",
+        "section": "new"
+      },
+      {
+        "id": 11,
+        "tmdbId": 1514026,
+        "title": "Buddy",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Horror / Fantasy",
+        "rating": "6.7",
+        "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+        "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
         "section": "new"
       }
     ],
@@ -141,7 +141,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror",
-        "rating": "6.5",
+        "rating": "6.6",
         "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -180,7 +180,7 @@
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Mystery",
-        "rating": "6.6",
+        "rating": "6.7",
         "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -188,19 +188,6 @@
       },
       {
         "id": 16,
-        "tmdbId": 1381071,
-        "title": "Godzilla Minus Zero",
-        "year": "2026",
-        "type": "Movie",
-        "genre": "Sci-Fi / Horror",
-        "rating": "7.7",
-        "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-        "section": "kills"
-      },
-      {
-        "id": 17,
         "tmdbId": 1339713,
         "title": "Obsession",
         "year": "2026",
@@ -213,16 +200,29 @@
         "section": "kills"
       },
       {
-        "id": 18,
+        "id": 17,
         "tmdbId": 1514026,
         "title": "Buddy",
         "year": "2026",
         "type": "Movie",
         "genre": "Horror / Fantasy",
-        "rating": "6.8",
+        "rating": "6.7",
         "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
         "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
+        "section": "kills"
+      },
+      {
+        "id": 18,
+        "tmdbId": 1381071,
+        "title": "Godzilla Minus Zero",
+        "year": "2026",
+        "type": "Movie",
+        "genre": "Sci-Fi / Horror",
+        "rating": "7.6",
+        "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
         "section": "kills"
       },
       {
@@ -281,19 +281,6 @@
       },
       {
         "id": 23,
-        "tmdbId": 1622,
-        "title": "Supernatural",
-        "year": "2005",
-        "type": "TV",
-        "genre": "Mystery",
-        "rating": "8.3",
-        "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-        "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
-        "section": "tv"
-      },
-      {
-        "id": 24,
         "tmdbId": 1413,
         "title": "American Horror Story",
         "year": "2011",
@@ -306,13 +293,26 @@
         "section": "tv"
       },
       {
+        "id": 24,
+        "tmdbId": 1622,
+        "title": "Supernatural",
+        "year": "2005",
+        "type": "TV",
+        "genre": "Mystery",
+        "rating": "8.3",
+        "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
+        "section": "tv"
+      },
+      {
         "id": 25,
         "tmdbId": 330613,
         "title": "The Rules",
         "year": "2026",
         "type": "TV",
         "genre": "Mystery",
-        "rating": "9.3",
+        "rating": "9.5",
         "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
         "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
@@ -538,7 +538,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror",
-      "rating": "6.5",
+      "rating": "6.6",
       "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -559,19 +559,6 @@
     },
     {
       "id": 4,
-      "tmdbId": 1507696,
-      "title": "Apocalypse Z: New World",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Thriller / Horror",
-      "rating": "6.1",
-      "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 5,
       "tmdbId": 1741617,
       "title": "Hansel & Gretel's Halloween",
       "year": "2026",
@@ -581,6 +568,19 @@
       "tagline": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
       "detail": "On Halloween night, six teens enter a candy-coated labyrinth from the tale of Hansel and Gretel, where a deadly Witch turns temptation into traps-and resisting the sweetest lure is their only way out.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 5,
+      "tmdbId": 1507696,
+      "title": "Apocalypse Z: New World",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Thriller / Horror",
+      "rating": "6.1",
+      "tagline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "detail": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg') center/cover",
       "section": "new"
     },
     {
@@ -598,28 +598,28 @@
     },
     {
       "id": 7,
-      "tmdbId": 1813355,
-      "title": "A Story of Derry",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Horror / Mystery",
-      "rating": "6.6",
-      "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 8,
       "tmdbId": 1496696,
       "title": "Breeder",
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Thriller",
-      "rating": "7.5",
+      "rating": "7.4",
       "tagline": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
       "detail": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg') center/cover",
+      "section": "new"
+    },
+    {
+      "id": 8,
+      "tmdbId": 1813355,
+      "title": "A Story of Derry",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Mystery",
+      "rating": "6.7",
+      "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
       "section": "new"
     },
     {
@@ -629,7 +629,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror",
-      "rating": "2.2",
+      "rating": "5.1",
       "tagline": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
       "detail": "When her friend falls ill and her fiancé mysteriously vanishes, a woman’s peaceful summer getaway becomes a desperate battle against an ancient evil.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg') center/cover",
@@ -637,19 +637,6 @@
     },
     {
       "id": 10,
-      "tmdbId": 1381071,
-      "title": "Godzilla Minus Zero",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.7",
-      "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-      "section": "new"
-    },
-    {
-      "id": 11,
       "tmdbId": 1339713,
       "title": "Obsession",
       "year": "2026",
@@ -662,13 +649,26 @@
       "section": "new"
     },
     {
+      "id": 11,
+      "tmdbId": 1514026,
+      "title": "Buddy",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Horror / Fantasy",
+      "rating": "6.7",
+      "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+      "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
+      "section": "new"
+    },
+    {
       "id": 12,
       "tmdbId": 1400837,
       "title": "Other Mommy",
       "year": "2026",
       "type": "Movie",
       "genre": "Horror",
-      "rating": "6.5",
+      "rating": "6.6",
       "tagline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "detail": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg') center/cover",
@@ -707,7 +707,7 @@
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Mystery",
-      "rating": "6.6",
+      "rating": "6.7",
       "tagline": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "detail": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg') center/cover",
@@ -715,19 +715,6 @@
     },
     {
       "id": 16,
-      "tmdbId": 1381071,
-      "title": "Godzilla Minus Zero",
-      "year": "2026",
-      "type": "Movie",
-      "genre": "Sci-Fi / Horror",
-      "rating": "7.7",
-      "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
-      "section": "kills"
-    },
-    {
-      "id": 17,
       "tmdbId": 1339713,
       "title": "Obsession",
       "year": "2026",
@@ -740,16 +727,29 @@
       "section": "kills"
     },
     {
-      "id": 18,
+      "id": 17,
       "tmdbId": 1514026,
       "title": "Buddy",
       "year": "2026",
       "type": "Movie",
       "genre": "Horror / Fantasy",
-      "rating": "6.8",
+      "rating": "6.7",
       "tagline": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
       "detail": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg') center/cover",
+      "section": "kills"
+    },
+    {
+      "id": 18,
+      "tmdbId": 1381071,
+      "title": "Godzilla Minus Zero",
+      "year": "2026",
+      "type": "Movie",
+      "genre": "Sci-Fi / Horror",
+      "rating": "7.6",
+      "tagline": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "detail": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg') center/cover",
       "section": "kills"
     },
     {
@@ -806,19 +806,6 @@
     },
     {
       "id": 23,
-      "tmdbId": 1622,
-      "title": "Supernatural",
-      "year": "2005",
-      "type": "TV",
-      "genre": "Mystery",
-      "rating": "8.3",
-      "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
-      "section": "tv"
-    },
-    {
-      "id": 24,
       "tmdbId": 1413,
       "title": "American Horror Story",
       "year": "2011",
@@ -831,13 +818,26 @@
       "section": "tv"
     },
     {
+      "id": 24,
+      "tmdbId": 1622,
+      "title": "Supernatural",
+      "year": "2005",
+      "type": "TV",
+      "genre": "Mystery",
+      "rating": "8.3",
+      "tagline": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "detail": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+      "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg') center/cover",
+      "section": "tv"
+    },
+    {
       "id": 25,
       "tmdbId": 330613,
       "title": "The Rules",
       "year": "2026",
       "type": "TV",
       "genre": "Mystery",
-      "rating": "9.3",
+      "rating": "9.5",
       "tagline": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "detail": "Haunted by his past, Metha takes a night shift at a mysterious convenience store where breaking its strange rules leads to supernatural death, forcing him to confront both the store's dark secrets and his own sins.",
       "background": "linear-gradient(rgba(10,5,10,.25), rgba(10,5,10,.7)), url('https://image.tmdb.org/t/p/w500/IECgq0Hd4ezuyGhbQgQawURGKT.jpg') center/cover",
